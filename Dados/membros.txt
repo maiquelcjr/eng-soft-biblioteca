@@ -1,0 +1,10 @@
+João Silva|M123|Rua das Flores, 123|123456789
+Maria Oliveira|M456|Avenida Brasil, 456|987654321
+Carlos Pereira|M789|Praça da Liberdade, 789|456789123
+Ana Souza|M101|Rua da Paz, 101|789123456
+Pedro Santos|M102|Avenida Central, 102|321654987
+Mariana Lima|M103|Rua do Sol, 103|654987321
+Lucas Alves|M104|Avenida das Nações, 104|987321654
+Fernanda Costa|M105|Rua das Palmeiras, 105|123789456
+Ricardo Mendes|M106|Praça do Comércio, 106|456123789
+Juliana Rocha|M107|Avenida das Américas, 107|789456123
